@@ -1,4 +1,4 @@
-package LogicaDeProgramacaoI.Loops.ExerciciosDiversos.ChatGPT;
+package LogicaDeProgramacaoI.Loops.ExerciciosDiversos.DesafiosHackerrank;
 
 import java.util.ArrayList;
 import java.util.Collections;

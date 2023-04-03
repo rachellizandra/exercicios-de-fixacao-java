@@ -1,4 +1,4 @@
-package LogicaDeProgramacaoI.Loops.ExerciciosDiversos.ChatGPT;
+package LogicaDeProgramacaoI.Loops.ExerciciosDiversos.DesafiosHackerrank;
 
 public class MinimoCaractere {
     public static int minCharsToAdd(String searchWord, String resultWord) {
